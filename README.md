@@ -18,3 +18,7 @@ Handwritten digit recognition is the computer’s abilityto read and accurately 
 Added both ipynb and python code 
 
 you can refer ipynb if you wants to check the outputs. 
+
+keep both the data in the same folder 
+1. MNIST -> train.csv
+2. EMNIST -> emnist-digits-train.csv
